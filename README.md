@@ -1,3 +1,10 @@
+# NOTE: This project has moved to
+
+[BiPropellant Repos](https://github.com/bipropellant)
+
+Thanks to @p-h-a-i-l and @EmerickH for forming a team on this....
+
+
 # HEAVILY MODIFIED
 
 This firmware is a heavily modified version of https://github.com/NiklasFauth/hoverboard-firmware-hack which allows you to use the hoverboard AS A HOVERBOARD, as well as external serial control.
